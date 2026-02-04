@@ -1,8 +1,9 @@
-html
+html, body
 {
     background-color: 241c2f;
+    margin: 0;
 }
 h1
 {
-    color: yellowgreen;
+    color: #ffeb00;
 }
